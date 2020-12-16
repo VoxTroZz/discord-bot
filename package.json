@@ -1,0 +1,14 @@
+{
+    "name": "espacetools",
+    "version": "0.1",
+    "description":"" , 
+    "main":"index.js" ,
+    "author": "Marnelo", 
+    "license": "",
+    "dependencies": {
+        "discord.js": "^12.3.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
